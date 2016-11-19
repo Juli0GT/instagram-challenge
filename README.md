@@ -1,6 +1,34 @@
 Instagram Challenge
 ===================
 
+# README
+
+### MVP User Stories
+
+```
+As a user,
+So I can see my friends lifestyle,
+I need to see the pictures uploaded by them.
+
+As a user,
+So I can react to my friends pictures,
+I need to be able to like the pictures.
+
+As a user,
+So I can express my opinion about my friends pictures,
+I need to be able to write a comment on the pictures.
+
+As a user,
+So I can show to my friends my lifestyle,
+I need to be able to upload pictures.
+
+As a user,
+So I can remove the pictures I don't like anymore.
+I need to be able to delete uploaded pictures.
+```
+
+
+
 Instructions
 -------
 * Challenge time: one weekend
@@ -21,3 +49,5 @@ As usual please start by forking this repo. After cloning your fork and cd'ing i
 Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
 
 Bonus if you can add filters!
+
+
