@@ -2,7 +2,7 @@
 
 <% @posts.each do |post| %>
   <tr>
-    <td><%= post.caption %></td>
-    <%= image_tag post.image.url(:medium) %>
+    <td><%= post.caption %></td><br>
+    <%= image_tag post.image.url(:medium)%><br><br>
   </tr>
 <% end %>
